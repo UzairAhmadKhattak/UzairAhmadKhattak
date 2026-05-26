@@ -65,7 +65,7 @@ Built a production FAQ chatbot wired into an internal knowledge base using **Ret
 ### 🗑️ Waste Management & Logistics Platform — *Infosysta*
 Architected a live logistics coordination system with real-time driver tracking, dynamic scheduling, capacity management, and workflow automation. Backend services designed for sub-second coordination under concurrent load.
 
-### 🔐 Identity Management System (IMS) with SSO — *Infosysta*
+### 🔐 Inventory Management System (IMS) with SSO — *Infosysta*
 Designed a secure IMS integrated with POS systems. Implemented **SSO** using `httpOnly` cookies and **BFF architecture** (Django + Next.js), with a full **RBAC** authorization layer and orchestrated API gateway.
 
 ### 💬 Daycare Management Suite — *SeQuenX BV*
