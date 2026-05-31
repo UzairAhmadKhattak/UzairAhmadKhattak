@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-I'm a **Lead Backend Software Engineer** with **4.5 years** of experience building systems that scale, reason, and self-heal. My work spans from low-level infrastructure automation to high-level AI orchestration — I've shipped production-grade **RAG pipelines**, **real-time distributed systems**, **identity & access management platforms**, and **multi-vendor marketplace backends**.
+I'm a **Lead Backend Software Engineer** with **4.5 years** of experience building systems that scale, reason, and self-heal. My work spans from low-level infrastructure automation to high-level AI orchestration — I've shipped production-grade **RAG pipelines**, **real-time distributed systems** and **SAAS platforms**.
 
 I don't just write code — I architect solutions that survive the messy realities of production: race conditions, vendor outages, schema migrations under load, and AI models that hallucinate.
 
